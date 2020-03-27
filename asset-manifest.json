@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Yemchuk/toDo.git/static/css/main.da59d705.chunk.css",
-    "main.js": "/Yemchuk/toDo.git/static/js/main.8e316373.chunk.js",
-    "main.js.map": "/Yemchuk/toDo.git/static/js/main.8e316373.chunk.js.map",
-    "runtime-main.js": "/Yemchuk/toDo.git/static/js/runtime-main.33928291.js",
-    "runtime-main.js.map": "/Yemchuk/toDo.git/static/js/runtime-main.33928291.js.map",
-    "static/js/2.8ba249f7.chunk.js": "/Yemchuk/toDo.git/static/js/2.8ba249f7.chunk.js",
-    "static/js/2.8ba249f7.chunk.js.map": "/Yemchuk/toDo.git/static/js/2.8ba249f7.chunk.js.map",
-    "index.html": "/Yemchuk/toDo.git/index.html",
-    "precache-manifest.2a619baeee46912890bbc4167dd697eb.js": "/Yemchuk/toDo.git/precache-manifest.2a619baeee46912890bbc4167dd697eb.js",
-    "service-worker.js": "/Yemchuk/toDo.git/service-worker.js",
-    "static/css/main.da59d705.chunk.css.map": "/Yemchuk/toDo.git/static/css/main.da59d705.chunk.css.map",
-    "static/js/2.8ba249f7.chunk.js.LICENSE.txt": "/Yemchuk/toDo.git/static/js/2.8ba249f7.chunk.js.LICENSE.txt"
+    "main.css": "/toDo/static/css/main.da59d705.chunk.css",
+    "main.js": "/toDo/static/js/main.8e316373.chunk.js",
+    "main.js.map": "/toDo/static/js/main.8e316373.chunk.js.map",
+    "runtime-main.js": "/toDo/static/js/runtime-main.16c2edeb.js",
+    "runtime-main.js.map": "/toDo/static/js/runtime-main.16c2edeb.js.map",
+    "static/js/2.8ba249f7.chunk.js": "/toDo/static/js/2.8ba249f7.chunk.js",
+    "static/js/2.8ba249f7.chunk.js.map": "/toDo/static/js/2.8ba249f7.chunk.js.map",
+    "index.html": "/toDo/index.html",
+    "precache-manifest.36f132d846ba1513865c03e440256f85.js": "/toDo/precache-manifest.36f132d846ba1513865c03e440256f85.js",
+    "service-worker.js": "/toDo/service-worker.js",
+    "static/css/main.da59d705.chunk.css.map": "/toDo/static/css/main.da59d705.chunk.css.map",
+    "static/js/2.8ba249f7.chunk.js.LICENSE.txt": "/toDo/static/js/2.8ba249f7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.33928291.js",
+    "static/js/runtime-main.16c2edeb.js",
     "static/js/2.8ba249f7.chunk.js",
     "static/css/main.da59d705.chunk.css",
     "static/js/main.8e316373.chunk.js"
